@@ -9,7 +9,7 @@
 ╚═╝░░╚═╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Aryansh+%F0%9F%91%8B;Full+Stack+Chaos+Engineer+%F0%9F%94%A5;I+turn+coffee+into+code+%E2%98%95;Bugs+fear+me.+Users+love+me.+%F0%9F%92%AA;sudo+make+me+a+sandwich+%F0%9F%A5%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=700&lines=Hey+there%2C+I'm+Aryansh+%F0%9F%91%8B;Full+Stack+Chaos+Engineer+%F0%9F%94%A5;AI+%2B+Robotics+%2B+Code+%3D+My+Holy+Trinity+%F0%9F%A4%96;Teaching+machines+to+think+%F0%9F%A7%A0;Building+robots+that+won't+kill+us+%F0%9F%A4%9E;I+turn+coffee+into+code+%E2%98%95;sudo+make+me+a+sandwich+%F0%9F%A5%AA" alt="Typing SVG" />
 
 <br/>
 
@@ -27,22 +27,25 @@ class Aryansh:
     def __init__(self):
         self.name        = "Aryansh"
         self.alias       = "Aryanshh"
-        self.role        = "Full Stack Developer & Digital Sorcerer 🧙"
+        self.role        = "Full Stack Dev | AI Engineer | Robotics Nerd 🤖"
         self.location    = "India 🇮🇳"
         self.coffee      = float("inf")
         self.sleep       = 0
-        self.goal        = "Ship code so clean it makes seniors cry"
+        self.obsessions  = ["Artificial Intelligence 🧠", "Robotics 🦾", "Breaking Prod 💀"]
+        self.goal        = "Build AI-powered robots that can fix my own bugs"
         self.life_motto  = "If it works, don't touch it. If it doesn't, blame npm."
 
     def say_hi(self):
-        print("Hey! I build things that (usually) don't break. 🚀")
+        print("Hey! I build things that think, move, and (usually) don't break. 🚀")
 
     def current_status(self):
         return {
-            "building": "something insane 🔨",
-            "listening_to": "lo-fi while pretending to work 🎧",
-            "debugging": True,
-            "regrets": None,
+            "building":      "an AI that builds other AIs 🤯",
+            "training":      "neural nets & myself simultaneously 🏋️",
+            "listening_to":  "lo-fi while pretending to work 🎧",
+            "debugging":     True,
+            "robot_uprising": "not yet 😅",
+            "regrets":       None,
         }
 
 me = Aryansh()
@@ -78,6 +81,21 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🦾 Robotics
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 </div>
 
 ---
@@ -95,35 +113,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contributions (My Snake is Fed)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aryanshh/Aryanshh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎯 Current Mission
-
-```
-🔭  Building:     Next big thing (classified 🤫)
-🌱  Learning:     Everything. All at once. Send help.
-👯  Looking For:  Collabs that break the internet
-🤔  Seeking:      Someone to fix my "it works on my machine" bugs
-💬  Ask Me About: Code, life, why tabs > spaces
-⚡  Fun Fact:     I have 47 browser tabs open RIGHT NOW
-```
-
----
-
-## 🏆 GitHub Trophies (Wall of Fame)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanshh&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 🌊 Activity Graph
 
 <div align="center">
@@ -136,14 +125,17 @@ me.say_hi()
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*
-> — Me, after 4 hours of Googling the problem.
+> *"First, solve the problem. Then, write the code. Then teach an AI to write it for you."*
+> — Me, ascending to a higher plane.
 
 > *"It's not a bug — it's an undocumented feature."*
 > — Me, every single day.
 
 > *"Works on my machine"*
 > — Famous last words 🪦
+
+> *"The robot didn't malfunction. It just had a different vision."*
+> — Me, after every robotics demo.
 
 </div>
 
